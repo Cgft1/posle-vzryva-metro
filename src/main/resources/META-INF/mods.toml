@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="metroafter"
+version="1.0.0"
+displayName="После взрыва: Метро"
+description='''Постапокалиптическое выживание: радиация на поверхности, противогаз и оружие из металлолома.'''
